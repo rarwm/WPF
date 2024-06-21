@@ -1,0 +1,89 @@
+﻿<Window x:Class="zadanie_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:zadanie_1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <Style TargetType="TextBox">
+            <Setter Property="FontSize" Value="12"/>
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="Background">
+                <Setter.Value>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                        <GradientStop Color="#FF4F15F0" Offset="0"/>
+                        <GradientStop Color="#FF9700FF" Offset="0.5"/>
+                        <GradientStop Color="#FFDF0CF3" Offset="1"/>
+                    </LinearGradientBrush>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <EventTrigger RoutedEvent="Loaded">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <ColorAnimation
+                              Storyboard.TargetProperty="(TextBox.Background).(LinearGradientBrush.GradientStops)[0].Color"
+                              From="#FF4F15F0" To="#FF9700FF" Duration="0:0:1" RepeatBehavior="Forever" AutoReverse="True"/>
+                            <ColorAnimation
+                              Storyboard.TargetProperty="(TextBox.Background).(LinearGradientBrush.GradientStops)[1].Color"
+                              From="#FF9700FF" To="#FFDF0CF3" Duration="0:0:1" RepeatBehavior="Forever" AutoReverse="True"/>
+                            <ColorAnimation
+                              Storyboard.TargetProperty="(TextBox.Background).(LinearGradientBrush.GradientStops)[2].Color"
+                              From="#FFDF0CF3" To="#FF4F15F0" Duration="0:0:1" RepeatBehavior="Forever" AutoReverse="True"/>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Style.Triggers>
+        </Style>
+        <Style TargetType="TextBlock">
+            <Setter Property="FontSize" Value="24"/>
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="Background">
+                <Setter.Value>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                        <GradientStop Color="#FF4F15F0" Offset="0"/>
+                        <GradientStop Color="#FF9700FF" Offset="0.5"/>
+                        <GradientStop Color="#FFDF0CF3" Offset="1"/>
+                    </LinearGradientBrush>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <EventTrigger RoutedEvent="Loaded">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <ColorAnimation
+                              Storyboard.TargetProperty="(TextBlock.Background).(LinearGradientBrush.GradientStops)[0].Color"
+                              From="#FF4F15F0" To="#FF9700FF" Duration="0:0:1" RepeatBehavior="Forever" AutoReverse="True"/>
+                            <ColorAnimation
+                              Storyboard.TargetProperty="(TextBlock.Background).(LinearGradientBrush.GradientStops)[1].Color"
+                              From="#FF9700FF" To="#FFDF0CF3" Duration="0:0:1" RepeatBehavior="Forever" AutoReverse="True"/>
+                            <ColorAnimation
+                              Storyboard.TargetProperty="(TextBlock.Background).(LinearGradientBrush.GradientStops)[2].Color"
+                              From="#FFDF0CF3" To="#FF4F15F0" Duration="0:0:1" RepeatBehavior="Forever" AutoReverse="True"/>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel>
+            <TextBlock Text="Большое текстовое поле" FontWeight="Bold" Foreground="Snow" FontFamily="Corbel Light"/>
+            <TextBox TextWrapping="Wrap" AcceptsReturn="True" Height="354" TextChanged="TextBox_TextChanged" FontSize="24"/>
+        </StackPanel>
+        <Grid Grid.Column="1" Background="Snow">
+            <StackPanel>
+                <TextBlock Text="Маленькие текстовые поля" FontWeight="Bold" Foreground="Snow" FontFamily="Corbel Light"/>
+                <TextBox x:Name="SmallTextBox1" TextWrapping="Wrap" AcceptsReturn="True" Height="111" FontFamily="Segoe UI Black" FontSize="22"/>
+                <TextBox x:Name="SmallTextBox2" TextWrapping="Wrap" AcceptsReturn="True" Height="111" FontFamily="Segoe Print" FontSize="20"/>
+                <TextBox x:Name="SmallTextBox3" TextWrapping="Wrap" AcceptsReturn="True" Height="111" FontFamily="Gabriola" FontSize="18"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,31 @@
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 2 Лабораторная работа 11\bin\Debug\Задание 2 Лабораторная работа 11.exe.config
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 2 Лабораторная работа 11\bin\Debug\Задание 2 Лабораторная работа 11.exe
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 2 Лабораторная работа 11\bin\Debug\Задание 2 Лабораторная работа 11.pdb
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 2 Лабораторная работа 11\obj\Debug\Задание 2 Лабораторная работа 11.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 2 Лабораторная работа 11\obj\Debug\Задание 2 Лабораторная работа 11.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 2 Лабораторная работа 11\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 2 Лабораторная работа 11\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 2 Лабораторная работа 11\obj\Debug\Задание 2 Лабораторная работа 11_MarkupCompile.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 2 Лабораторная работа 11\obj\Debug\Задание 2 Лабораторная работа 11_MarkupCompile.lref
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 2 Лабораторная работа 11\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 2 Лабораторная работа 11\obj\Debug\Задание 2 Лабораторная работа 11.g.resources
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 2 Лабораторная работа 11\obj\Debug\Задание_2_Лабораторная_работа_11.Properties.Resources.resources
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 2 Лабораторная работа 11\obj\Debug\Задание 2 Лабораторная работа 11.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 2 Лабораторная работа 11\obj\Debug\Задание 2 Лабораторная работа 11.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 2 Лабораторная работа 11\obj\Debug\Задание 2 Лабораторная работа 11.exe
+C:\Users\user\Desktop\Раб\avdeev21ис\Задание 2 Лабораторная работа 11\obj\Debug\Задание 2 Лабораторная работа 11.pdb
+C:\Users\tankk\Desktop\впф\Лабораторная 11\Лабораторная работа 11 Задание 2\bin\Debug\Задание 2 Лабораторная работа 11.exe.config
+C:\Users\tankk\Desktop\впф\Лабораторная 11\Лабораторная работа 11 Задание 2\bin\Debug\Задание 2 Лабораторная работа 11.exe
+C:\Users\tankk\Desktop\впф\Лабораторная 11\Лабораторная работа 11 Задание 2\bin\Debug\Задание 2 Лабораторная работа 11.pdb
+C:\Users\tankk\Desktop\впф\Лабораторная 11\Лабораторная работа 11 Задание 2\obj\Debug\Задание 2 Лабораторная работа 11.csproj.AssemblyReference.cache
+C:\Users\tankk\Desktop\впф\Лабораторная 11\Лабораторная работа 11 Задание 2\obj\Debug\MainWindow.g.cs
+C:\Users\tankk\Desktop\впф\Лабораторная 11\Лабораторная работа 11 Задание 2\obj\Debug\App.g.cs
+C:\Users\tankk\Desktop\впф\Лабораторная 11\Лабораторная работа 11 Задание 2\obj\Debug\Задание 2 Лабораторная работа 11_MarkupCompile.cache
+C:\Users\tankk\Desktop\впф\Лабораторная 11\Лабораторная работа 11 Задание 2\obj\Debug\Задание 2 Лабораторная работа 11_MarkupCompile.lref
+C:\Users\tankk\Desktop\впф\Лабораторная 11\Лабораторная работа 11 Задание 2\obj\Debug\MainWindow.baml
+C:\Users\tankk\Desktop\впф\Лабораторная 11\Лабораторная работа 11 Задание 2\obj\Debug\Задание 2 Лабораторная работа 11.g.resources
+C:\Users\tankk\Desktop\впф\Лабораторная 11\Лабораторная работа 11 Задание 2\obj\Debug\Задание_2_Лабораторная_работа_11.Properties.Resources.resources
+C:\Users\tankk\Desktop\впф\Лабораторная 11\Лабораторная работа 11 Задание 2\obj\Debug\Задание 2 Лабораторная работа 11.csproj.GenerateResource.cache
+C:\Users\tankk\Desktop\впф\Лабораторная 11\Лабораторная работа 11 Задание 2\obj\Debug\Задание 2 Лабораторная работа 11.csproj.CoreCompileInputs.cache
+C:\Users\tankk\Desktop\впф\Лабораторная 11\Лабораторная работа 11 Задание 2\obj\Debug\Задание 2 Лабораторная работа 11.exe
+C:\Users\tankk\Desktop\впф\Лабораторная 11\Лабораторная работа 11 Задание 2\obj\Debug\Задание 2 Лабораторная работа 11.pdb

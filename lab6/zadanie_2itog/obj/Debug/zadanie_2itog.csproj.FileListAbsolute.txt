@@ -1,0 +1,31 @@
+C:\Users\user\Desktop\lab_6\zadanie_2itog\obj\Debug\zadanie_2itog.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\lab_6\zadanie_2itog\obj\Debug\zadanie_2itog.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\lab_6\zadanie_2itog\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\lab_6\zadanie_2itog\obj\Debug\App.g.cs
+C:\Users\user\Desktop\lab_6\zadanie_2itog\obj\Debug\zadanie_2itog_MarkupCompile.cache
+C:\Users\user\Desktop\lab_6\zadanie_2itog\obj\Debug\zadanie_2itog_MarkupCompile.lref
+C:\Users\user\Desktop\lab_6\zadanie_2itog\bin\Debug\zadanie_2itog.exe.config
+C:\Users\user\Desktop\lab_6\zadanie_2itog\bin\Debug\zadanie_2itog.exe
+C:\Users\user\Desktop\lab_6\zadanie_2itog\bin\Debug\zadanie_2itog.pdb
+C:\Users\user\Desktop\lab_6\zadanie_2itog\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\lab_6\zadanie_2itog\obj\Debug\zadanie_2itog.g.resources
+C:\Users\user\Desktop\lab_6\zadanie_2itog\obj\Debug\zadanie_2itog.Properties.Resources.resources
+C:\Users\user\Desktop\lab_6\zadanie_2itog\obj\Debug\zadanie_2itog.csproj.GenerateResource.cache
+C:\Users\user\Desktop\lab_6\zadanie_2itog\obj\Debug\zadanie_2itog.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\lab_6\zadanie_2itog\obj\Debug\zadanie_2itog.exe
+C:\Users\user\Desktop\lab_6\zadanie_2itog\obj\Debug\zadanie_2itog.pdb
+C:\Users\sugak\OneDrive\Рабочий стол\lab_6\zadanie_2itog\bin\Debug\zadanie_2itog.exe.config
+C:\Users\sugak\OneDrive\Рабочий стол\lab_6\zadanie_2itog\bin\Debug\zadanie_2itog.exe
+C:\Users\sugak\OneDrive\Рабочий стол\lab_6\zadanie_2itog\bin\Debug\zadanie_2itog.pdb
+C:\Users\sugak\OneDrive\Рабочий стол\lab_6\zadanie_2itog\obj\Debug\zadanie_2itog.csproj.AssemblyReference.cache
+C:\Users\sugak\OneDrive\Рабочий стол\lab_6\zadanie_2itog\obj\Debug\MainWindow.g.cs
+C:\Users\sugak\OneDrive\Рабочий стол\lab_6\zadanie_2itog\obj\Debug\App.g.cs
+C:\Users\sugak\OneDrive\Рабочий стол\lab_6\zadanie_2itog\obj\Debug\zadanie_2itog_MarkupCompile.cache
+C:\Users\sugak\OneDrive\Рабочий стол\lab_6\zadanie_2itog\obj\Debug\zadanie_2itog_MarkupCompile.lref
+C:\Users\sugak\OneDrive\Рабочий стол\lab_6\zadanie_2itog\obj\Debug\MainWindow.baml
+C:\Users\sugak\OneDrive\Рабочий стол\lab_6\zadanie_2itog\obj\Debug\zadanie_2itog.g.resources
+C:\Users\sugak\OneDrive\Рабочий стол\lab_6\zadanie_2itog\obj\Debug\zadanie_2itog.Properties.Resources.resources
+C:\Users\sugak\OneDrive\Рабочий стол\lab_6\zadanie_2itog\obj\Debug\zadanie_2itog.csproj.GenerateResource.cache
+C:\Users\sugak\OneDrive\Рабочий стол\lab_6\zadanie_2itog\obj\Debug\zadanie_2itog.csproj.CoreCompileInputs.cache
+C:\Users\sugak\OneDrive\Рабочий стол\lab_6\zadanie_2itog\obj\Debug\zadanie_2itog.exe
+C:\Users\sugak\OneDrive\Рабочий стол\lab_6\zadanie_2itog\obj\Debug\zadanie_2itog.pdb

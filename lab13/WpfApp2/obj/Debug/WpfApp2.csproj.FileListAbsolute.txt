@@ -1,0 +1,30 @@
+C:\Users\kapit\OneDrive\Рабочий стол\13-rabota-2-zadanie-main\13-rabota-2-zadanie-main\WpfApp2\bin\Debug\WpfApp56.exe.config
+C:\Users\kapit\OneDrive\Рабочий стол\13-rabota-2-zadanie-main\13-rabota-2-zadanie-main\WpfApp2\bin\Debug\WpfApp56.exe
+C:\Users\kapit\OneDrive\Рабочий стол\13-rabota-2-zadanie-main\13-rabota-2-zadanie-main\WpfApp2\bin\Debug\WpfApp56.pdb
+C:\Users\kapit\OneDrive\Рабочий стол\13-rabota-2-zadanie-main\13-rabota-2-zadanie-main\WpfApp2\obj\Debug\WpfApp2.csproj.AssemblyReference.cache
+C:\Users\kapit\OneDrive\Рабочий стол\13-rabota-2-zadanie-main\13-rabota-2-zadanie-main\WpfApp2\obj\Debug\MainWindow.g.cs
+C:\Users\kapit\OneDrive\Рабочий стол\13-rabota-2-zadanie-main\13-rabota-2-zadanie-main\WpfApp2\obj\Debug\App.g.cs
+C:\Users\kapit\OneDrive\Рабочий стол\13-rabota-2-zadanie-main\13-rabota-2-zadanie-main\WpfApp2\obj\Debug\WpfApp56_MarkupCompile.cache
+C:\Users\kapit\OneDrive\Рабочий стол\13-rabota-2-zadanie-main\13-rabota-2-zadanie-main\WpfApp2\obj\Debug\WpfApp56_MarkupCompile.lref
+C:\Users\kapit\OneDrive\Рабочий стол\13-rabota-2-zadanie-main\13-rabota-2-zadanie-main\WpfApp2\obj\Debug\MainWindow.baml
+C:\Users\kapit\OneDrive\Рабочий стол\13-rabota-2-zadanie-main\13-rabota-2-zadanie-main\WpfApp2\obj\Debug\WpfApp56.g.resources
+C:\Users\kapit\OneDrive\Рабочий стол\13-rabota-2-zadanie-main\13-rabota-2-zadanie-main\WpfApp2\obj\Debug\WpfApp56.Properties.Resources.resources
+C:\Users\kapit\OneDrive\Рабочий стол\13-rabota-2-zadanie-main\13-rabota-2-zadanie-main\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+C:\Users\kapit\OneDrive\Рабочий стол\13-rabota-2-zadanie-main\13-rabota-2-zadanie-main\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\kapit\OneDrive\Рабочий стол\13-rabota-2-zadanie-main\13-rabota-2-zadanie-main\WpfApp2\obj\Debug\WpfApp56.exe
+C:\Users\kapit\OneDrive\Рабочий стол\13-rabota-2-zadanie-main\13-rabota-2-zadanie-main\WpfApp2\obj\Debug\WpfApp56.pdb
+D:\wpf\lab13\Лабораторная 13 Анимация на основе геометрического пути\WpfApp2\bin\Debug\WpfApp56.exe.config
+D:\wpf\lab13\Лабораторная 13 Анимация на основе геометрического пути\WpfApp2\bin\Debug\WpfApp56.exe
+D:\wpf\lab13\Лабораторная 13 Анимация на основе геометрического пути\WpfApp2\bin\Debug\WpfApp56.pdb
+D:\wpf\lab13\Лабораторная 13 Анимация на основе геометрического пути\WpfApp2\obj\Debug\WpfApp2.csproj.AssemblyReference.cache
+D:\wpf\lab13\Лабораторная 13 Анимация на основе геометрического пути\WpfApp2\obj\Debug\MainWindow.g.cs
+D:\wpf\lab13\Лабораторная 13 Анимация на основе геометрического пути\WpfApp2\obj\Debug\App.g.cs
+D:\wpf\lab13\Лабораторная 13 Анимация на основе геометрического пути\WpfApp2\obj\Debug\WpfApp56_MarkupCompile.cache
+D:\wpf\lab13\Лабораторная 13 Анимация на основе геометрического пути\WpfApp2\obj\Debug\WpfApp56_MarkupCompile.lref
+D:\wpf\lab13\Лабораторная 13 Анимация на основе геометрического пути\WpfApp2\obj\Debug\MainWindow.baml
+D:\wpf\lab13\Лабораторная 13 Анимация на основе геометрического пути\WpfApp2\obj\Debug\WpfApp56.g.resources
+D:\wpf\lab13\Лабораторная 13 Анимация на основе геометрического пути\WpfApp2\obj\Debug\WpfApp56.Properties.Resources.resources
+D:\wpf\lab13\Лабораторная 13 Анимация на основе геометрического пути\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+D:\wpf\lab13\Лабораторная 13 Анимация на основе геометрического пути\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+D:\wpf\lab13\Лабораторная 13 Анимация на основе геометрического пути\WpfApp2\obj\Debug\WpfApp56.exe
+D:\wpf\lab13\Лабораторная 13 Анимация на основе геометрического пути\WpfApp2\obj\Debug\WpfApp56.pdb

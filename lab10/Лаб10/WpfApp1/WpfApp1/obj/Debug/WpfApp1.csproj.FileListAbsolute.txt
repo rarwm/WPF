@@ -1,0 +1,61 @@
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб10\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб10\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб10\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб10\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб10\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб10\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб10\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб10\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\kapit\OneDrive\Рабочий стол\Лаб10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\kapit\OneDrive\Рабочий стол\WPF Капитонова\Лабораторная 10 Использование фигур в WPF-приложениях\Лаб10\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\kapit\OneDrive\Рабочий стол\WPF Капитонова\Лабораторная 10 Использование фигур в WPF-приложениях\Лаб10\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\kapit\OneDrive\Рабочий стол\WPF Капитонова\Лабораторная 10 Использование фигур в WPF-приложениях\Лаб10\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\kapit\OneDrive\Рабочий стол\WPF Капитонова\Лабораторная 10 Использование фигур в WPF-приложениях\Лаб10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\kapit\OneDrive\Рабочий стол\WPF Капитонова\Лабораторная 10 Использование фигур в WPF-приложениях\Лаб10\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\kapit\OneDrive\Рабочий стол\WPF Капитонова\Лабораторная 10 Использование фигур в WPF-приложениях\Лаб10\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\kapit\OneDrive\Рабочий стол\WPF Капитонова\Лабораторная 10 Использование фигур в WPF-приложениях\Лаб10\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\kapit\OneDrive\Рабочий стол\WPF Капитонова\Лабораторная 10 Использование фигур в WPF-приложениях\Лаб10\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\kapit\OneDrive\Рабочий стол\WPF Капитонова\Лабораторная 10 Использование фигур в WPF-приложениях\Лаб10\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\kapit\OneDrive\Рабочий стол\WPF Капитонова\Лабораторная 10 Использование фигур в WPF-приложениях\Лаб10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\kapit\OneDrive\Рабочий стол\WPF Капитонова\Лабораторная 10 Использование фигур в WPF-приложениях\Лаб10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\kapit\OneDrive\Рабочий стол\WPF Капитонова\Лабораторная 10 Использование фигур в WPF-приложениях\Лаб10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\kapit\OneDrive\Рабочий стол\WPF Капитонова\Лабораторная 10 Использование фигур в WPF-приложениях\Лаб10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\kapit\OneDrive\Рабочий стол\WPF Капитонова\Лабораторная 10 Использование фигур в WPF-приложениях\Лаб10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\kapit\OneDrive\Рабочий стол\WPF Капитонова\Лабораторная 10 Использование фигур в WPF-приложениях\Лаб10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\User\Desktop\Лабораторная работа 10\Лаб10\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\User\Desktop\Лабораторная работа 10\Лаб10\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\User\Desktop\Лабораторная работа 10\Лаб10\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\User\Desktop\Лабораторная работа 10\Лаб10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Лабораторная работа 10\Лаб10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Лабораторная работа 10\Лаб10\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Лабораторная работа 10\Лаб10\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Лабораторная работа 10\Лаб10\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\User\Desktop\Лабораторная работа 10\Лаб10\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\User\Desktop\Лабораторная работа 10\Лаб10\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Лабораторная работа 10\Лаб10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\User\Desktop\Лабораторная работа 10\Лаб10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\User\Desktop\Лабораторная работа 10\Лаб10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Лабораторная работа 10\Лаб10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Лабораторная работа 10\Лаб10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\User\Desktop\Лабораторная работа 10\Лаб10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\tankk\Desktop\впф\Лабораторная 10\Лаб10\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\tankk\Desktop\впф\Лабораторная 10\Лаб10\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\tankk\Desktop\впф\Лабораторная 10\Лаб10\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\tankk\Desktop\впф\Лабораторная 10\Лаб10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\tankk\Desktop\впф\Лабораторная 10\Лаб10\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\tankk\Desktop\впф\Лабораторная 10\Лаб10\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\tankk\Desktop\впф\Лабораторная 10\Лаб10\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\tankk\Desktop\впф\Лабораторная 10\Лаб10\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\tankk\Desktop\впф\Лабораторная 10\Лаб10\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\tankk\Desktop\впф\Лабораторная 10\Лаб10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\tankk\Desktop\впф\Лабораторная 10\Лаб10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\tankk\Desktop\впф\Лабораторная 10\Лаб10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\tankk\Desktop\впф\Лабораторная 10\Лаб10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\tankk\Desktop\впф\Лабораторная 10\Лаб10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\tankk\Desktop\впф\Лабораторная 10\Лаб10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb

@@ -1,0 +1,23 @@
+﻿<Window x:Class="WpfAppjjjjjj.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppjjjjjj"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="t1" />
+        <TextBox x:Name="t2" Text="{Binding ElementName=t1, Path=Text, Mode=TwoWay}" />
+        <Slider Minimum="8" Maximum="30" x:Name="SliderFontSize"></Slider>
+        <TextBlock x:Name="Message" FontSize="{Binding ElementName=SliderFontSize, Path=Value}" Margin="0,21,0,-21">  
+         Пример WPF-приложения для демонстрации привязки данных
+        </TextBlock>
+        <Slider Minimum="8" Maximum="30" x:Name="SliderFontSize2" Margin="0,56,0,-56" />
+        <TextBlock x:Name="Message2" FontSize="{Binding ElementName=SliderFontSize2, Path=Value}" Margin="0,80,0,-80">  
+         Пример WPF-приложения для демонстрации привязки данных 2
+        </TextBlock>
+        <Slider Minimum="0" Maximum="100" x:Name="SliderMultiplier" Margin="0,130,0,-130" RenderTransformOrigin="0.501,0.54" />
+
+    </Grid>
+</Window>

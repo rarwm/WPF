@@ -1,0 +1,15 @@
+C:\Users\sugak\OneDrive\Рабочий стол\lab_7\zadanie_2\zadanie_2\obj\Debug\zadanie_2.csproj.AssemblyReference.cache
+C:\Users\sugak\OneDrive\Рабочий стол\lab_7\zadanie_2\zadanie_2\obj\Debug\MainWindow.g.cs
+C:\Users\sugak\OneDrive\Рабочий стол\lab_7\zadanie_2\zadanie_2\obj\Debug\App.g.cs
+C:\Users\sugak\OneDrive\Рабочий стол\lab_7\zadanie_2\zadanie_2\obj\Debug\zadanie_2_MarkupCompile.cache
+C:\Users\sugak\OneDrive\Рабочий стол\lab_7\zadanie_2\zadanie_2\obj\Debug\zadanie_2_MarkupCompile.lref
+C:\Users\sugak\OneDrive\Рабочий стол\lab_7\zadanie_2\zadanie_2\bin\Debug\zadanie_2.exe.config
+C:\Users\sugak\OneDrive\Рабочий стол\lab_7\zadanie_2\zadanie_2\bin\Debug\zadanie_2.exe
+C:\Users\sugak\OneDrive\Рабочий стол\lab_7\zadanie_2\zadanie_2\bin\Debug\zadanie_2.pdb
+C:\Users\sugak\OneDrive\Рабочий стол\lab_7\zadanie_2\zadanie_2\obj\Debug\MainWindow.baml
+C:\Users\sugak\OneDrive\Рабочий стол\lab_7\zadanie_2\zadanie_2\obj\Debug\zadanie_2.g.resources
+C:\Users\sugak\OneDrive\Рабочий стол\lab_7\zadanie_2\zadanie_2\obj\Debug\zadanie_2.Properties.Resources.resources
+C:\Users\sugak\OneDrive\Рабочий стол\lab_7\zadanie_2\zadanie_2\obj\Debug\zadanie_2.csproj.GenerateResource.cache
+C:\Users\sugak\OneDrive\Рабочий стол\lab_7\zadanie_2\zadanie_2\obj\Debug\zadanie_2.csproj.CoreCompileInputs.cache
+C:\Users\sugak\OneDrive\Рабочий стол\lab_7\zadanie_2\zadanie_2\obj\Debug\zadanie_2.exe
+C:\Users\sugak\OneDrive\Рабочий стол\lab_7\zadanie_2\zadanie_2\obj\Debug\zadanie_2.pdb

@@ -1,0 +1,49 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid>
+
+
+
+
+            <Canvas Name="myCanvas1" Margin="35,128,588,115">
+                <Canvas.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleX="1" ScaleY="1"/>
+                    </TransformGroup>
+                </Canvas.RenderTransform>
+                <Polygon Points="37.5,0 112.5,0 150,75 112.5,150 37.5,150 0,75" Stroke="Gray" StrokeThickness="3" Fill="Gray" Width="NaN" Height="NaN" RenderTransformOrigin="0.5,0.5" Canvas.Left="13" Canvas.Top="21" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+                <Ellipse Width="51" Height="56" Fill="#FF1A141A" Canvas.Left="63" Canvas.Top="69" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+                <Rectangle Fill="Green" Height="30" Width="114" Canvas.Left="32" Canvas.Top="82" HorizontalAlignment="Center" VerticalAlignment="Top" />
+            </Canvas>
+            <Canvas x:Name="myCanvas2" Margin="312,128,312,115">
+                <Canvas.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleX="1" ScaleY="1"/>
+                    </TransformGroup>
+                </Canvas.RenderTransform>
+                <Polygon Points="37.5,0 112.5,0 150,75 112.5,150 37.5,150 0,75" Stroke="Gray" StrokeThickness="3" Fill="Gray" Width="NaN" Height="NaN" RenderTransformOrigin="0.5,0.5" Canvas.Left="13" Canvas.Top="21" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+                <Ellipse Width="51" Height="56" Fill="#FF1A141A" Canvas.Left="63" Canvas.Top="69" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+                <Rectangle Fill="Green" Height="30" Width="114" Canvas.Left="32" Canvas.Top="82" HorizontalAlignment="Center" VerticalAlignment="Top" />
+            </Canvas>
+            <Canvas x:Name="myCanvas3" Margin="576,128,47,115">
+                <Canvas.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleX="1" ScaleY="1"/>
+                    </TransformGroup>
+                </Canvas.RenderTransform>
+                <Polygon Points="37.5,0 112.5,0 150,75 112.5,150 37.5,150 0,75" Stroke="Gray" StrokeThickness="3" Fill="Gray" Width="NaN" Height="NaN" RenderTransformOrigin="0.5,0.5" Canvas.Left="13" Canvas.Top="21" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+                <Ellipse Width="51" Height="56" Fill="#FF1A141A" Canvas.Left="63" Canvas.Top="69" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+                <Rectangle Fill="Green" Height="30" Width="114" Canvas.Left="32" Canvas.Top="82" HorizontalAlignment="Center" VerticalAlignment="Top" />
+            </Canvas>
+
+        </Grid>
+
+    </Grid>
+</Window>

@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tankk\\Desktop\\\u0432\u043F\u0444\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 10\\\u041B\u0430\u043110\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3227EC-41C0-479D-AEAD-C082B4B91994}|WpfApp1\\WpfApp1.csproj|c:\\users\\tankk\\desktop\\\u0432\u043F\u0444\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 10\\\u043B\u0430\u043110\\wpfapp1\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FF3227EC-41C0-479D-AEAD-C082B4B91994}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3227EC-41C0-479D-AEAD-C082B4B91994}|WpfApp1\\WpfApp1.csproj|C:\\Users\\tankk\\Desktop\\\u0432\u043F\u0444\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 10\\\u041B\u0430\u043110\\WpfApp1\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF3227EC-41C0-479D-AEAD-C082B4B91994}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\tankk\\Desktop\\\u0432\u043F\u0444\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 10\\\u041B\u0430\u043110\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\tankk\\Desktop\\\u0432\u043F\u0444\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 10\\\u041B\u0430\u043110\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-21T10:51:35.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tankk\\Desktop\\\u0432\u043F\u0444\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 10\\\u041B\u0430\u043110\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\tankk\\Desktop\\\u0432\u043F\u0444\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 10\\\u041B\u0430\u043110\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGwAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHiSURBVDhPY2SAgpb1Vww4WNh2SguwM7EyMQYL/5I95ujI\u002BAcqjRMwMsTvNAAxfPWF1cwUeKfvvvqBz1GNb7\u002BW4Ocp25ZOffTt2zewQikpKYaAgACQgTccHR3hBrMw/GUsADGO3vok9P7LH66bL76xKIuy2hiJ/pdTVFT8DjLg9\u002B/fYMVv3rz5JCkpWXHs2LELVlZW30FijAwxO8VAjHIvaR0FEc6Vi469FEm3k2CwVeFk\u002BPvjM8O/f/8YXrx4wbBp0yaGHz9\u002B/PPz87vNw8OTCDT0NMglTAxL3F\u002BBsAQf67s/f/7\u002Bq/CUZbBV42HgYmVg4ObmZuDl5WXg4uJi\u002BP//P8O7d\u002B\u002BYgAapPn/\u002BvANopwbIYiYQAQIKrM8YlDleMehJsTBwMv8D2wwDrKysDGJiYgxA5zNwcHAwAb3At2HDBhaQHDNYBRBICAtIvH7\u002BJFZPR4ubhQUuDAZsbGwMMjIyDFpaWgxKSkoMt27devH06dON165dewF3wbNnz8D4zx/MmIO5QFpaGuwKEB8G4AaQC0YNQDIAFLKMjIzgVAeMIpwYJA\u002BKKVhMgBMDCAATyHcmJqYrW7duFQYZhAuAEtjXr19vgdSD\u002BHCV9fX1LMAkKgDMPAS9xc7O/geYsD41Njb\u002BAQB9hMCogeGQ7QAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-06-21T10:51:35.401Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

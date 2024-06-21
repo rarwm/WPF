@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\РАБОЧИЙ СТОЛ\milldoriss\WpfAppjjjjjj\bin\Debug\WpfAppjjjjjj.exe.config
+C:\Users\user\Desktop\РАБОЧИЙ СТОЛ\milldoriss\WpfAppjjjjjj\bin\Debug\WpfAppjjjjjj.exe
+C:\Users\user\Desktop\РАБОЧИЙ СТОЛ\milldoriss\WpfAppjjjjjj\bin\Debug\WpfAppjjjjjj.pdb
+C:\Users\user\Desktop\РАБОЧИЙ СТОЛ\milldoriss\WpfAppjjjjjj\obj\Debug\WpfAppjjjjjj.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\РАБОЧИЙ СТОЛ\milldoriss\WpfAppjjjjjj\obj\Debug\WpfAppjjjjjj.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\РАБОЧИЙ СТОЛ\milldoriss\WpfAppjjjjjj\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\РАБОЧИЙ СТОЛ\milldoriss\WpfAppjjjjjj\obj\Debug\App.g.cs
+C:\Users\user\Desktop\РАБОЧИЙ СТОЛ\milldoriss\WpfAppjjjjjj\obj\Debug\WpfAppjjjjjj_MarkupCompile.cache
+C:\Users\user\Desktop\РАБОЧИЙ СТОЛ\milldoriss\WpfAppjjjjjj\obj\Debug\WpfAppjjjjjj_MarkupCompile.lref
+C:\Users\user\Desktop\РАБОЧИЙ СТОЛ\milldoriss\WpfAppjjjjjj\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\РАБОЧИЙ СТОЛ\milldoriss\WpfAppjjjjjj\obj\Debug\WpfAppjjjjjj.g.resources
+C:\Users\user\Desktop\РАБОЧИЙ СТОЛ\milldoriss\WpfAppjjjjjj\obj\Debug\WpfAppjjjjjj.Properties.Resources.resources
+C:\Users\user\Desktop\РАБОЧИЙ СТОЛ\milldoriss\WpfAppjjjjjj\obj\Debug\WpfAppjjjjjj.csproj.GenerateResource.cache
+C:\Users\user\Desktop\РАБОЧИЙ СТОЛ\milldoriss\WpfAppjjjjjj\obj\Debug\WpfAppjjjjjj.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\РАБОЧИЙ СТОЛ\milldoriss\WpfAppjjjjjj\obj\Debug\WpfAppjjjjjj.exe
+C:\Users\user\Desktop\РАБОЧИЙ СТОЛ\milldoriss\WpfAppjjjjjj\obj\Debug\WpfAppjjjjjj.pdb
